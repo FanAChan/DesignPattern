@@ -1,4 +1,4 @@
-package common.simplefactory;
+package common.base;
 
 public interface Animal {
 

@@ -1,9 +1,9 @@
-package common.simplefactory.test;
+package common.test;
 
-import common.simplefactory.Animal;
-import common.simplefactory.factory.AnimalFactory1;
-import common.simplefactory.factory.AnimalFactory2;
-import common.simplefactory.factory.StaticAnimalFactory;
+import common.base.Animal;
+import common.simplefactory.AnimalFactory1;
+import common.simplefactory.AnimalFactory2;
+import common.simplefactory.StaticAnimalFactory;
 
 /**
  * @author Achan

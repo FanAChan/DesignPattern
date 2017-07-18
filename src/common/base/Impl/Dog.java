@@ -1,6 +1,6 @@
-package common.simplefactory.Impl;
+package common.base.Impl;
 
-import common.simplefactory.Animal;
+import common.base.Animal;
 
 public class Dog implements Animal {
 

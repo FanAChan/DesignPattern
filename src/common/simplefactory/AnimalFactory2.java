@@ -1,8 +1,8 @@
-package common.simplefactory.factory;
+package common.simplefactory;
 
-import common.simplefactory.Animal;
-import common.simplefactory.Impl.Cat;
-import common.simplefactory.Impl.Dog;
+import common.base.Animal;
+import common.base.Impl.Cat;
+import common.base.Impl.Dog;
 
 /**
  * 动物工厂方法2
